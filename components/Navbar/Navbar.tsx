@@ -25,9 +25,8 @@ const Navbar = () => {
           <Link href={"#contact"}>  <p className='px-4 2xl:text-2xl 2xl:px-6 2xl:py-3 py-2 hover:bg-white hover:text-black cursor-pointer active:bg-white rounded-xl'> Contact Us </p> </Link>
         </div>
         {menu &&
-          <div className='gap-4 flex flex-col absolute bg-primary-100 left-10 rounded-lg top-24 w-60 h-60 py-10 '>
+          <div className='gap-4 flex flex-col absolute bg-[#B6B5FF] left-10 rounded-lg top-24 w-60 h-60 py-10 '>
             <Link href={"/"}> <p className='px-4 py-2 hover:bg-white hover:text-black cursor-pointer border-b border-white/20 active:bg-white rounded-lg mx-4'> About Us </p> </Link>
-            <Link href={"/projects"}> <p className='px-4 py-2 hover:bg-white hover:text-black cursor-pointer border-b border-white/20 active:bg-white rounded-lg mx-4'> Our Projects </p> </Link>
             <Link href={"#contact"}> <p className='px-4 py-2 hover:bg-white hover:text-black cursor-pointer border-b border-white/20 active:bg-white rounded-lg mx-4'> Contact Us </p> </Link>
           </div>
         }

@@ -10,8 +10,8 @@ const poppins = Poppins({ weight: ["100", "200", "300", "400", "500", "600", "70
 const dm_Sans = DM_Sans({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Times Technologies",
-  description: "Website for Times Technologies",
+  title: "Wodpro League",
+  description: "Website for Wodproleague",
 };
 
 export default function RootLayout({
