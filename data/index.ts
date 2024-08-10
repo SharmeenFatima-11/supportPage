@@ -27,7 +27,7 @@ export const features = [
 export const contacts = [
     {
         title: "Cross Training",
-        content: " Join us for this exciting CrossFit event where you can compete against athletes from all over Spain. It's the first CrossTraining league, where you can compete from your own gym and be cheered on by your friends.",
+        content: " Join us for this exciting CrossFit event where you can compete against athletes from all over Spain. It&apos;s the first CrossTraining league, where you can compete from your own gym and be cheered on by your friends.",
         idx: 1
     },
     {
@@ -37,7 +37,7 @@ export const contacts = [
     },
     {
         title: "First League",
-        content: "Join us for an exhilarating CrossFit event where you'll face off against competitors from all over Spain. This is the premier CrossTraining league, letting you compete from your own gym with the support of your friends.",
+        content: "Join us for an exhilarating CrossFit event where you&apos;ll face off against competitors from all over Spain. This is the premier CrossTraining league, letting you compete from your own gym with the support of your friends.",
         idx: 3
     },
 ]
@@ -54,14 +54,14 @@ export const projectCardsData = [
   },
   {
     title:"Generate Professional Invoices In Just a Few Seconds - Invoice System",
-    content: "Our Invoice System is an all-in-one solution designed to simplify and optimize your invoicing process. Generate professional invoices in just a few clicks, and rest assured they will be automatically sent to your customers' emails, ensuring timely delivery and payment. This intelligent system not only manages and tracks invoices but also stores customer emails and important dates such as anniversaries. By remembering these key details, the system helps you maintain better engagement and build stronger customer relationships. Ideal for businesses of all sizes, our Invoice System combines ease of use with powerful features to streamline your billing process and enhance customer satisfaction.",
+    content: "Our Invoice System is an all-in-one solution designed to simplify and optimize your invoicing process. Generate professional invoices in just a few clicks, and rest assured they will be automatically sent to your customers&apos; emails, ensuring timely delivery and payment. This intelligent system not only manages and tracks invoices but also stores customer emails and important dates such as anniversaries. By remembering these key details, the system helps you maintain better engagement and build stronger customer relationships. Ideal for businesses of all sizes, our Invoice System combines ease of use with powerful features to streamline your billing process and enhance customer satisfaction.",
     img: IMAGES.proj2,
     reverse: true,
         filePath:"/Invoice-app-system.pdf"
   },
   {
     title:"Order Your Favourite Snacks and Drinks In Advance - Coffee Shop ",
-    content: "Our Coffee Shop Ordering System revolutionizes the way customers interact with their favorite coffee shops. Designed for ultimate convenience, the app allows users to place orders for their preferred drinks and snacks in advance. Whether you're rushing to the office or simply want to avoid waiting in line, this system ensures your order is ready for pickup exactly when you need it. On the other side, coffee shop employees have access to a dedicated system where they can view, manage, and prepare orders efficiently. This streamlined process not only enhances customer satisfaction but also boosts operational efficiency within the coffee shop. Perfect for busy professionals and coffee enthusiasts alike, our Coffee Shop Ordering System bridges the gap between convenience and quality service.",
+    content: "Our Coffee Shop Ordering System revolutionizes the way customers interact with their favorite coffee shops. Designed for ultimate convenience, the app allows users to place orders for their preferred drinks and snacks in advance. Whether you&apos;re rushing to the office or simply want to avoid waiting in line, this system ensures your order is ready for pickup exactly when you need it. On the other side, coffee shop employees have access to a dedicated system where they can view, manage, and prepare orders efficiently. This streamlined process not only enhances customer satisfaction but also boosts operational efficiency within the coffee shop. Perfect for busy professionals and coffee enthusiasts alike, our Coffee Shop Ordering System bridges the gap between convenience and quality service.",
     img: IMAGES.proj3,
     reverse: false,
         filePath:"/coffee-shop.pdf"
